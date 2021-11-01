@@ -1,0 +1,22 @@
+                                   ____GIT______
+
+What is GIT?
+            Git comes across as an easy tool that can be learned later when there is a real need. And that day comes when the git command shoots an error, after which Git becomes too complicated to understand.
+
+CVCS-
+	CVCS is Centralized version control system. In cvcs system have single server that contain all numbers of client and fle versions that check file from central place.
+DVCS-
+	It is Decentralized version control system. Its also called peer-to-peer version control system The repository contains the whole history; all the branches, all the commits, all the tags, everything
+
+VIRSION CONTROL-
+	Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book, you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.
+
+Git commands-
+git init  - (git repository)
+git commit –(save repository permanently)
+git checkout-(latest commit)
+git status  -(Diffrent states of files)
+ Merging in git-
+	 The git merge command facilitates you to take the data created by git branch and integrate them into a single branch. Git merge will associate a series of commits into one unified history.
+Branching in GIT-
+	Git branching allows developers to diverge from the production version of code to fix a bug or add a feature
